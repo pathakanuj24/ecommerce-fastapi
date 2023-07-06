@@ -16,7 +16,7 @@ The API exposes the following endpoints:
 - FastAPI
 - uvicorn
 - pydantic
-- 
+  
 ## Installation
 
 1. Clone the repository.
